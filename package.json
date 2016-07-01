@@ -1,0 +1,21 @@
+{
+  "name": "express-rest-logger",
+  "version": "0.0.1",
+  "description": "Basic REST logger from Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Geraci <geraciclaudio82@gmail.com> geraciclaudio82@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "rest",
+    "api",
+    "log"
+  ]
+}
