@@ -44,3 +44,5 @@ jspm_packages
 ### VisualStudioCode ###
 .vscode
 
+### Mac files ###
+.DS_Store

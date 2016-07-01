@@ -3,7 +3,7 @@
 A lightweight Express middleware for intercepting REST calls and log them into a file.
 
 ### Version
-0.0.1
+0.0.2
 
 ### Installation
 
