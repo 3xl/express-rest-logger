@@ -1,8 +1,12 @@
 {
   "name": "express-rest-logger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Basic REST logger from Expressjs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3xl/express-rest-logger.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
